@@ -1,5 +1,5 @@
 09.12.2016 | Federico Weithaler, Massimo Saia
-#Diario 03
+#Diario 04
 
 ##Lavori svolti
 Al mattino abbiamo pensato di cambiare template cercando una valida soluzione ma non abbiamo trovato nulla. In seguito ci siamo incontrati con il mandante per discutere del progetto, che ci ha consigliato di suddividere il lavoro in modo diverso da quello che avevamo pensato le lezioni precedenti: io svolgo la parte di codifica e decodifica con il drag and drop, Federico fà la parte del circuito con i led.
