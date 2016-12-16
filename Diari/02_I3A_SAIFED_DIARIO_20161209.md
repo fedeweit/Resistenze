@@ -1,15 +1,14 @@
-09.12.2016 | Federico Weithaler, Massimo Saia
-#Diario 04
+16.12.2016 | Federico Weithaler, Massimo Saia
+#Diario 05
 
 ##Lavori svolti
-Al mattino abbiamo pensato di cambiare template cercando una valida soluzione ma non abbiamo trovato nulla. In seguito ci siamo incontrati con il mandante per discutere del progetto, che ci ha consigliato di suddividere il lavoro in modo diverso da quello che avevamo pensato le lezioni precedenti: io svolgo la parte di codifica e decodifica con il drag and drop, Federico fà la parte del circuito con i led.
-Il resto del tempo ho guardato come fare il drag and drop. (Saia)
+Al mattino ho provato a modificare un drag and drop jQuery trovato su un sito http://www.elated.com/res/File/articles/development/javascript/jquery/drag-and-drop-with-jquery-your-essential-guide/card-game.html ma ho riscontrato parecchi errori(9.05-12.20). Per questo motivo al pomeriggio ho deciso di fare il drag and drop partendo da zero(13.15-15.45).(Saia)
 
-All'inizio abbiamo cercato un template per la pagina web inutilmente, dato che dopoci siamo incontrati con il mandante e siamo riusciti a chiarire tutte le richieste ambigue per poi riassegnarci i compiti: io farò la parte che calcola il valore delle resistenze in base ai led che voglio avere nel circuito, mentre Saia si occuperà delle altre due parti (codifica e decodifica). Tutto il tempo successivo l'abbiamo passato a migliorare e trovare delle soluzioni per tutte le funzionalità che deve avere la pagina web. (Fede)
+Mi sono portato avanti con il calcolo della resistenza avendo dei valori in input dinamici. Per prima cosa ho modificato il layout per rendere il sito responsive e in seguito mi sono occupato della parte dei "calcoli" (javascript): sono riuscito a calcolare gli Ohm necessari per il circuito specifico.(Fede)
 
 ##Problemi e soluzioni
-Non sono riuscito ad allineare due elementi sullo stessio piano orizzontale senza creare casini anche alle altre parti del codice. (Fede)
+Ho avuto problemi con il drag and drop, quindi ho deciso di scrivere il codice da capo perché quello estratto da internet dava troppi problemi. (Saia)
 ##Punto della situazione alla pianificazione
-Non abbiamo ancora finito la grafica della pagina web. Quindi dovremo impiegare anche la lezione prossima per questa parte.
+Abbiamo terminato la grafica, per ora siamo coerenti alle tempistiche prefissate.
 ##Programma di massima per la giornata successiva
-Risolvere il problema dell'allineamento e terminare la grafica (pagina html).
+Finire assolutamente ciò che riguarda il sito web perché la lezione dopo la dovremo dedicare alla documentazione dell'implementazione.
