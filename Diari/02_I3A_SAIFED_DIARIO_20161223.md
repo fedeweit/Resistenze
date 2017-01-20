@@ -1,5 +1,5 @@
 23.12.2016 | Federico Weithaler, Massimo Saia
-#Diario 05
+#Diario 06
 
 ##Lavori svolti
 Oggi al mattino ho parlato con il professor Mussi facendogli vedere il lavoro svolto sul drag and drop nelle scorse lezioni. mi ha consigliato di iniziare da un esempio (http://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_ondrag) e modificarlo per avere le specifiche richieste per tutto il tempo ho svolto questo lavoro(10:05-14:45). (Saia)
