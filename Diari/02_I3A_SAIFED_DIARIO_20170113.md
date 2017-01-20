@@ -1,5 +1,5 @@
 13.01.2017 | Federico Weithaler, Massimo Saia
-#Diario 06
+#Diario 07
 
 ##Lavori svolti
 Ho quasi finito la pagina che disegna un circuito in base ai dati che gli si passano, mi manca ancora poco. Ho scritto una piccola parte per la documentazione.(Fede)
